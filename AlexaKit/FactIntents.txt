@@ -1,0 +1,4 @@
+GetNewFactIntent 明日の時間割
+GetNewFactIntent 時間割教えて
+GetNewFactIntent 明日の時間割教えて
+GetNewFactIntent 明日何限から

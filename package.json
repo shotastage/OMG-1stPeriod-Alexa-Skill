@@ -1,0 +1,11 @@
+{
+  "name": "OMG-1stPeriod-Alexa-Skill",
+  "version": "1.0.0",
+  "main": "express.js",
+  "repository": "https://github.com/shotastage/OMG-1stPeriod-Alexa-Skill.git",
+  "author": "Shota Shimazu <hornet.live.mf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.2.0"
+  }
+}
